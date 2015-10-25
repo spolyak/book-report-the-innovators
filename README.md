@@ -1,2 +1,8 @@
-# book-report-the-innovators
-A book report of the innovators
+An ACTLabs presentation of prototyping practices. 
+
+To run locally:
+``` bash
+npm install
+grunt serve
+```
+
