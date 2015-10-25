@@ -1,4 +1,4 @@
-An ACTLabs presentation of prototyping practices. 
+An ACTLabs presentation of a book report. 
 
 To run locally:
 ``` bash
